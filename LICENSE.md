@@ -1,4 +1,4 @@
-# 
+# Polymarket best bot: cross-chain-arbitrage & volume-analysis is the best Polymarket bot, featuring cross-chain-arbitrage and volume-analysis. Smart, fast, and optimized for
 
 
 
